@@ -1,0 +1,5 @@
+<dependency>
+    <groupId>your.group.id</groupId>
+    <artifactId>slowapi</artifactId>
+    <version>latest.version</version>
+</dependency>
